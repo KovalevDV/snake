@@ -1,0 +1,1 @@
+c:\users\kovalev denis\documents\visual studio 2015\Projects\Snake\Snake\bin\Debug\Snake.exe.config
